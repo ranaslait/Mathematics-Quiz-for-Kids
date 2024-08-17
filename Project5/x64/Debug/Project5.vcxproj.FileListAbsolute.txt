@@ -1,0 +1,10 @@
+C:\Users\DELL\source\repos\Project5\Project5\x64\Debug\Project5.vcxproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Project5\Project5\x64\Debug\Project5.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\source\repos\Project5\Project5\x64\Debug\Project5.MyForm.resources
+C:\Users\DELL\source\repos\Project5\Project5\x64\Debug\Project5.vcxproj.GenerateResource.cache
+C:\Users\DELL\source\repos\Project5\Project5\x64\Debug\Project5.MyForm2.resources
+C:\Users\DELL\source\repos\Mathe for kids\Project5\x64\Debug\Project5.vcxproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Mathe for kids\Project5\x64\Debug\Project5.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\source\repos\Mathe for kids\Project5\x64\Debug\Project5.MyForm.resources
+C:\Users\DELL\source\repos\Mathe for kids\Project5\x64\Debug\Project5.MyForm2.resources
+C:\Users\DELL\source\repos\Mathe for kids\Project5\x64\Debug\Project5.vcxproj.GenerateResource.cache
